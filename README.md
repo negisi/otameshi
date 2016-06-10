@@ -1,2 +1,2 @@
 # otameshi
-otameshi desu
+otameshi
